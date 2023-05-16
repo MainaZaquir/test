@@ -4,10 +4,10 @@
 
 Before running the deployment process, ensure that you have the following prerequisites installed:
 
-- Ansible ( https://www.ansible.com/products/automation-platform )
-- Docker (  https://www.docker.com/get-started )
-- VirtualBox (  https://www.virtualbox.org/wiki/Downloads )
-- Vagrant ( https://www.vagrantup.com/downloads )
+- Ansible [ https://www.ansible.com/products/automation-platform ]
+- Docker [ https://www.docker.com/get-started ]
+- VirtualBox [ https://www.virtualbox.org/wiki/Downloads ]
+- Vagrant [ https://www.vagrantup.com/downloads ]
 
 ## Installation
 
