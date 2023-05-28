@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Pod
+metadata:
+ name: test-label
+ labels:
+   creation_method: manual
+   env: prod
+spec:
+ containers:
+ - image: figent/test
+   name: label
+   ports:
+   - containerPort: 8080
+     protocol: TCP
